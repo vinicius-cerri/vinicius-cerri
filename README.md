@@ -5,10 +5,10 @@
 - No meu tempo livre, gosto de estudar **Investimentos**💸 e **Análise de Dados**💻 e ouvir **Podcasts**🎧
 - Atualmente mais focado em:
 <div style="display: inline">
-  <img width="50" height="50" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" />
-  <img width="50" height="50" src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.9.0/1686121620796/Microsoft.VisualStudio.Services.Icons.Default" />
-  <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  &nbsp;&nbsp;<img width="50" height="50" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.9.0/1686121620796/Microsoft.VisualStudio.Services.Icons.Default" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;
 </div>
 
 ##
